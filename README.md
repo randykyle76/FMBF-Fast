@@ -22,7 +22,7 @@ pkg install python
 pkg install git
 pip install request
 pip install bs4
-git clone https://github.com/randykyle76/Fast-Crack
+git clone https://github.com/randykyle76/FMBF-Fast
 cd Fast-Crack
 git pull
 python bot-FB.py
